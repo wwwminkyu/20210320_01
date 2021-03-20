@@ -14,7 +14,7 @@
 
 - repository : 저장소, 프로젝트가 거주할 수 있는 디렉토리나 저장 공간. repo라고도 줄여 사용한다.
 - stage : commit 할 대상을 선택
-- commit : 수정한 내용의 스냅샷을 찍는다 (해당 시점의 스냅샷을 찍어 프로젝트를 재평가하거나 복원할 수 있는 체크포인트를 가질 수 있다. 깃허브에 저장한다)
+- commit : 수정한 내용의 스냅샷을 찍는다 (해당 시점의 스냅샷을 찍어 프로젝트를 재평가하거나 복원할 수 있는 체크포인트를 가질 수 있다. 깃허브에 저장)
 - push : GITHUB 서버에 업로드
 - stage -> commit -> push(네트워크에서 저장한거를 깃허브에 업로드하는것)
 - pull : GITHUB 서버에서 다운로드
@@ -22,13 +22,13 @@
 - pull request : 각각의 branch에서 개발한 것을 master branch로 병합하기 위한 '요청'
 - merge : 각각의 branch에서 개발한 것을 master branch로 병합하는 것
 - 마크다운 문서 : 깃허브에 사용하는 문서파일 (.md)
-- 컴퓨터 용어 중 WYSIWYG 위지위그
-- (What You See IS What You Get, 보는대로 얻는다)
-- 편집화면과 출력화면이 같은 것 (예전에는 안그랬다고함)
-- 대표 프로그램 : 워드, 한글, 포토샵 등 편집 툴
-
-- 마크다운 문서는 위지위그 방식이 아니다.
-
-- https://gist.github.com/ihoneymon/652be052a0727ad59601 (마크다운 작성법)
-
+- 컴퓨터 용어 중 WYSIWYG 위지위그 (마크다운 문서는 위지위그 방식이 아니다.)
+- (What You See IS What You Get, 보는대로 얻는다), 편집화면과 출력화면이 같은 것 (예전에는 안그랬다고함), 대표 프로그램 : 워드, 한글 등 편집 툴
+-
 - 깃허브 작업 편하게하는 프로그램 - 소스트리 (계정생성 후 사용해보자)
+
+> 사이트링크
+
+마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)
+온라인 에디터 : [Codepen](https://codepen.io/trending)
