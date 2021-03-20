@@ -32,3 +32,12 @@
 마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br/>
 HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)
+
+
+## WEB/IT 기초 개념
+
+> 클라이언트 서버 모델
+
+<img src="https://github.com/wwwminkyu/20210320_01/blob/main/1200px-Client-server-model.svg.png" width="648" />
+
+<img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2614/4971.png" />
