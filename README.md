@@ -1,4 +1,5 @@
 ### 문준석
+- https://github.com/ministori-yonsei
 - https://codepen.io/ministori-yonsei
 ### ministori@naver.com
 >> 깃허브는 svn의 종류 중 하나다
@@ -105,3 +106,20 @@ href : 링크로 연결된 목적지 주소
 3) 설명 목록
 - ul, ol 목록에서 중첩(nested) 형태로 사용할때 포함 관계를 주의
 - 포함하는 목록 항목에 작은 목록 전체가 포함됨
+
+
+### 이미지 콘텐츠 요소
+> [HTML Images](https://www.w3schools.com/html/html_images.asp)</br>
+1) src attribute : 가져올 이미지 파일 위치 정보
+2) alt(alternative) attribute : 대체 텍스트
+
+### 멀티미디어 콘텐츠 요소
+> [HTML Video](https://www.w3schools.com/html/html5_video.asp)
+- attribute의 형태
+1) name = "value"
+2) name만 사용
+- video 태그의 attribute
+1) controls
+2) autoplay
+3) muted
+
