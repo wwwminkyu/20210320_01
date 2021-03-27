@@ -122,4 +122,13 @@ href : 링크로 연결된 목적지 주소
 1) controls
 2) autoplay
 3) muted
+4) loop
 
+> [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+- youtube의 매개변수
+1) controls -> youyube_url/VIDEO_ID?controls=1
+2) autoplay -> youyube_url/VIDEO_ID?autoplay=1
+3) mute -> youyube_url/VIDEO_ID?mute=1
+4) loop -> youyube_url/VIDEO_ID?loop=1&playlist=VIDEO_ID
+- 여러 매개변수 동시 사용
+- youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (& : ampersand) <-루프는 플레이리스트를 추가해야 적용된다.
