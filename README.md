@@ -55,7 +55,20 @@ HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 ## HTML
 
 > [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)<br/>
-> > 하이퍼텍스트 표시 언어, 웹 페이지 구조 설명, 해당 콘텐츠가 어떤 콘텐츠(제목/단락/링크)인지 표시해주는 언어
-> > 중요 !! 어떤 태그를 달까 생각하지말고, 어떤 콘텐츠인지를 우선 생각하는 사고를 갖자
-> > 전체 HTML 영역에 head tag영역(사이트를 설명하는 정보, 탭 제목 등)과 body tag영역(웹 페이지 내 콘텐츠)이 나눠져있다. 
-> > 
+- 하이퍼텍스트 표시 언어, 웹 페이지 구조 설명, 해당 콘텐츠가 어떤 콘텐츠(제목/단락/링크)인지 표시해주는 언어
+- 중요 !! 어떤 태그를 달까 생각하지말고, 어떤 콘텐츠인지를 우선 생각하는 사고를 갖자
+- 전체 HTML 영역에 head tag영역(사이트를 설명하는 정보, 탭 제목 등)과 body tag영역(웹 페이지 내 콘텐츠)이 나눠져있다. 
+> [HTML Elements](https://www.w3schools.com/html/html_elements.asp)<br/>
+- < tagname > 여기에 콘텐츠 입력 ... < / tagname >
+- 일부 HTML 요소의 예 : <br>
+< h1 > 나의 첫 번째 제목 < / h1 ><br>
+< p > 내 첫 단락. < / p ><br>
+> [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)<br/>
+- HTML의 속성 (CSS의 속성 단어 - property +와 다르다)
+- HTML의 추가정보를 제공한다
+- 속성은 항상 시작 태그에 지정한다
+- 일반적으로 name = "어떠한 값"와 같은 이름 / 값 쌍으로 한다.
+- herf속성 : 링크로 이동 페이지의 URL을 지정
+- src 속성 : 화상의 경로를 표시하는 속성 지정- src 속성 : 화상의 경로를 표시하는 속성 지정
+
+https://codepen.io/ministori-yonsei
