@@ -68,8 +68,15 @@ HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tabl
 - HTML 속성 (CSS의 속성 단어 - property +와 다르다)
 1) HTML Element에 추가 정보를 제공
 2) name = "value" 형태로 사용
+- src 속성 : 화상의 경로를 표시하는 속성 지정- src 속성 : 화상의 경로를 표시하는 속성 지정<br/>
 
-- src 속성 : 화상의 경로를 표시하는 속성 지정- src 속성 : 화상의 경로를 표시하는 속성 지정
+> 웹 문서에서 표시할 수 있는 콘텐츠
+1) 텍스트
+2) 이미지
+3) 멀티미디어(비디오, 오디오)
+
+### 텍스트 콘텐츠 요소(
+
 > [HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
 - 제목 태그
 - Heading -> h
