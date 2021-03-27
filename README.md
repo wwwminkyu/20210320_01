@@ -1,4 +1,5 @@
 ### 문준석
+- https://codepen.io/ministori-yonsei
 ### ministori@naver.com
 >> 깃허브는 svn의 종류 중 하나다
 >> TortoiseSVN 개인적으로 버전관리할 때 썼는데(설치) 요즘에는 깃허브를 쓴다
@@ -31,8 +32,8 @@
 
 마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br/>
 HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
-온라인 에디터 : [Codepen](https://codepen.io/trending)
-
+온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
+HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tables#)<br/>
 
 ## WEB/IT 기초 개념
 
@@ -64,11 +65,18 @@ HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 < h1 > 나의 첫 번째 제목 < / h1 ><br>
 < p > 내 첫 단락. < / p ><br>
 > [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)<br/>
-- HTML의 속성 (CSS의 속성 단어 - property +와 다르다)
-- HTML의 추가정보를 제공한다
-- 속성은 항상 시작 태그에 지정한다
-- 일반적으로 name = "어떠한 값"와 같은 이름 / 값 쌍으로 한다.
+- HTML 속성 (CSS의 속성 단어 - property +와 다르다)
+1) HTML Element에 추가 정보를 제공
+2) name = "value" 형태로 사용
 - herf속성 : 링크로 이동 페이지의 URL을 지정
 - src 속성 : 화상의 경로를 표시하는 속성 지정- src 속성 : 화상의 경로를 표시하는 속성 지정
+> [HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
+- 제목 태그
+- Heading -> h
+- h1 ~ h6
+> [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+- 단락 태그
+- Paragraph -> p
+- 수평선
+- Horizontal Rules -> hr (Empty Element)
 
-https://codepen.io/ministori-yonsei
