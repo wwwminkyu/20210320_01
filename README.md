@@ -146,3 +146,6 @@ href : 링크로 연결된 목적지 주소
 - [Can I Use](https://caniuse.com/)
 - [Photopea](https://www.photopea.com/)
 - [Website Template](https://freebiesbug.com/psd-freebies/piroll-design-template-agencypersonal-portfolio/)
+- [Uploading 01_One Page.zip…](수업때 사용한 파일, 여기에 내용 추가하여 나머지도 영역 나눠오기 숙제)
+
+
