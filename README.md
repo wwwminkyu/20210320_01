@@ -35,6 +35,10 @@
 HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
 HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tables#)<br/>
+심심할때 보는 노트북 정보 블로그 : [테크인포](https://blog.naver.com/techinfo112/222097528617)<br/>
+무료사진 : [저작권없는 무료사진 사이트 5개추천](https://m.blog.naver.com/kusshand_official/221032238202)<br/>
+더미텍스트 영문 : [Lorem Ipsum](https://www.lipsum.com/)<br/>
+더미텍스트 한글 : [한글입숨](http://hangul.thefron.me/)
 
 ## WEB/IT 기초 개념
 
