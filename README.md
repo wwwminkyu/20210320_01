@@ -204,3 +204,33 @@ href : 링크로 연결된 목적지 주소
 <button type="reset" /></button>
 - <button type="submit" /></button>
 ```
+
+### HTML Element에 이름 붙이기 (-> CSS에서 사용하려고)
+
+> id와 class를 사용한다. (html요소에 하나하나씩 이름을 붙힌다. 모두 attribute 형태로!)
+ ```
+<p id ="paragraph1">단락</p>
+<p class="paragraph2"></p>
+```
+> id와 class의 차이 
+> (프론트엔드에서는 class만 쓰자! 백엔드에서 id사용할 가능성이 많아서 중복 방지!)
+- id는 하나의 HTML 파일(문서)에서 중복 사용될 수 없음
+- class는 하나의 HTML 파일(문서)에서 중복 사용할 수 있음(CSS styling, Javascript 기능을 동시 적용)
+
+> 표기법(여러단어가 사용될경우 단어를 구분)
+- gna-list-item : kebab case
+- gnb_list_item : snake case
+- gnbListItem : camel case
+- GnbListItem : Pascal case
+
+- 파일, 폴더 이름 : snake case
+- id, class : kebab case
+- 자바스크립트 변수, 함수 : camel case
+
+### 박스 가로 배치
+
+> float 
+- left, right 속성값으로 가로배치
+- 부모 요소를 기준으로 왼쪽배치, 오른쪽 배치
+- right 값을 사용하면 박스 순서가 반대로 배치
+- 박스는 가로는 부모요소 길이, 세로는 자식요소 길이다
