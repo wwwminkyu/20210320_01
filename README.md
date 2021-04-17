@@ -234,3 +234,6 @@ href : 링크로 연결된 목적지 주소
 - 부모 요소를 기준으로 왼쪽배치, 오른쪽 배치
 - right 값을 사용하면 박스 순서가 반대로 배치
 - 박스는 가로는 부모요소 길이, 세로는 자식요소 길이다
+
+> [리셋 CSS ](https://meyerweb.com/eric/tools/css/reset/)
+> [구글웹폰트](https://fonts.google.com/?subset=korean)
