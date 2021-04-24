@@ -36,6 +36,7 @@ HTLM, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
 HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tables#)<br/>
 심심할때 보는 노트북 정보 블로그 : [테크인포](https://blog.naver.com/techinfo112/222097528617)<br/>
+2 : [노트북정보](https://blog.naver.com/hchanu48/222320866929)</br>
 무료사진 : [저작권없는 무료사진 사이트 5개추천](https://m.blog.naver.com/kusshand_official/221032238202)<br/>
 더미텍스트 영문 : [Lorem Ipsum](https://www.lipsum.com/)<br/>
 더미텍스트 한글 : [한글입숨](http://hangul.thefron.me/)
@@ -233,7 +234,27 @@ href : 링크로 연결된 목적지 주소
 - left, right 속성값으로 가로배치
 - 부모 요소를 기준으로 왼쪽배치, 오른쪽 배치
 - right 값을 사용하면 박스 순서가 반대로 배치
-- 박스는 가로는 부모요소 길이, 세로는 자식요소 길이다
+- 박스는 가로는 부모요소 길이, 세로는 자식요소 길이다 (인라인 단독으로 가로 세로 정해주면 적용안됨)
+- 레이아웃을 올바르게 하기위해 부모요소의 높이를 높인다 또는 float으로 적용한 박스의 위치를 정한다 (미리 한번 더 묶는거)
 
 > [리셋 CSS ](https://meyerweb.com/eric/tools/css/reset/)
 > [구글웹폰트](https://fonts.google.com/?subset=korean)
+
+### 반응형 웹(Responsive Web)
+
+> OSMU(One Source Multi Use) - One Sourse => HTML
+> 적응형 웹(Adaptive Web) - OSMU가 적용되지 않음
+> 
+
+
+### JavaScript
+
+- 객체 oocss처럼 어떤 것이든 객체화 한다.
+- 프로그래밍언어의 객체는 크게 properties와 methods를 갖고있다.
+- JSP프로그래밍을 한다고 하면 이미 만들어놓은 객체를 활용한다. 이미 가져와서 적절하게 조합. 그러면 어떤 객체를 쓸것인가.
+- 객체가 갖고있는 properties와 methods를 어떻게 쓸 것인가.
+- properties : 겉으로 나타나는 표현해주는, 속성
+- methods : 동작과 관련된 괄호가 있다.
+- JSP는 HTML을 목적으로한다.
+- HTML을 객체화 하는 것을 DOM(Document Object Model)이라고 한다.
+- 
