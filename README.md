@@ -39,7 +39,14 @@ HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tabl
 2 : [노트북정보](https://blog.naver.com/hchanu48/222320866929)</br>
 무료사진 : [저작권없는 무료사진 사이트 5개추천](https://m.blog.naver.com/kusshand_official/221032238202)<br/>
 더미텍스트 영문 : [Lorem Ipsum](https://www.lipsum.com/)<br/>
-더미텍스트 한글 : [한글입숨](http://hangul.thefron.me/)
+더미텍스트 한글 : [한글입숨](http://hangul.thefron.me/)<br/>
+한글자음키 : [특수문자표](http://kor.pe.kr/util/4/Special_char.htm)<br/>
+프론트엔드 자료 : [MDN](https://developer.mozilla.org/ko/)<br/>
+날씨API : [OpenWeather](https://openweathermap.org/)<br/>
+개발자도구 : [제트브레인](https://www.jetbrains.com/ko-kr/)<br/>
+[json parser](http://json.parser.online.fr/)
+[카카오지도](https://apis.map.kakao.com/)<br/>
+[카카오개발자](https://developers.kakao.com/)</br>
 
 ## WEB/IT 기초 개념
 
@@ -258,3 +265,4 @@ href : 링크로 연결된 목적지 주소
 - JSP는 HTML을 목적으로한다.
 - HTML을 객체화 하는 것을 DOM(Document Object Model)이라고 한다.
 - 
+
