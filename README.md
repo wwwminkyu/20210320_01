@@ -47,6 +47,8 @@ HTML 표 만들기 : [table generator](https://www.tablesgenerator.com/html_tabl
 [json parser](http://json.parser.online.fr/)
 [카카오지도](https://apis.map.kakao.com/)<br/>
 [카카오개발자](https://developers.kakao.com/)</br>
+호스팅:[닷홈](http://wwwminkyu.dothome.co.kr/html/)</br>
+FTP:[Filezilla](https://filezilla-project.org/download.php?type=client#close)
 
 ## WEB/IT 기초 개념
 
@@ -266,3 +268,6 @@ href : 링크로 연결된 목적지 주소
 - HTML을 객체화 하는 것을 DOM(Document Object Model)이라고 한다.
 - 
 
+
+
+- 
